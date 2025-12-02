@@ -1,5 +1,9 @@
 # Nordic nRF Matter Dual Temperature Sensor
 
+## Development environment
+
+* [Installing the nRF Connect SDK](https://docs.nordicsemi.com/bundle/ncs-latest/page/nrf/installation/install_ncs.html)
+
 ## Firmware
 
 To compile the firmware, run the following command in your West environment
