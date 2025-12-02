@@ -3,6 +3,7 @@
 ## Development environment
 
 * [Installing the nRF Connect SDK](https://docs.nordicsemi.com/bundle/ncs-latest/page/nrf/installation/install_ncs.html)
+* [Installing the toolchain]
 
 ## Firmware
 
